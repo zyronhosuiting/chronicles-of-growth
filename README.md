@@ -1,6 +1,6 @@
 # Chronicles of Growth
 
-Welcome to **Chronicles of Growth**, a personal blog dedicated to sharing my journey, insights, and experiences. This repository serves as a platform for my articles, reflections, and creative explorations. 
+Welcome to Self Quest: The Zyron Chronicles, a personal blog dedicated to sharing my journey, insights, and experiences. This repository serves as a platform for my articles, reflections, and creative explorations.
 
 ## About Me
 
@@ -24,5 +24,3 @@ Feel free to explore the articles and insights.
 I’d love to hear from you! Feel free to connect with me on [Twitter] or [LinkedIn].
 
 Thank you for visiting my blog, and I hope you find something that resonates with you!
-
-
