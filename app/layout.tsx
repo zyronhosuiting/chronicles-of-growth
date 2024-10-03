@@ -18,6 +18,11 @@ const sourceHanSerifCN = localFont({
   variable: "--font-source-han-serif-cn",
   weight: "100 900",
 });
+const iconfont = localFont({
+  src: "./fonts/iconfont.ttf",
+  variable: "--font-iconfont",
+  weight: "100 900",
+});
 
 export const metadata: Metadata = {
   title: "The Zyron Chronicles",
@@ -32,7 +37,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} ${sourceHanSerifCN.variable} antialiased`}
+        className={`${iconfont.variable} ${geistSans.variable} ${geistMono.variable} ${sourceHanSerifCN.variable} antialiased`}
       >
         <NavBar />
         {children}
